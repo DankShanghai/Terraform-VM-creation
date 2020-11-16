@@ -7,3 +7,4 @@ variable "admin_password" {
     type = string
     description = "Podaj haslo do maszyny wirtualnej"
 }
+
